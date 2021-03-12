@@ -1,6 +1,3 @@
-[submodule "rnr-t2c.github.io"]
-	path = rnr-t2c.github.io
-	url = https://github.com/rnr-t2c/rnr-t2c.github.io.git
 [submodule "website/themes/hugo-story"]
 	path = website/themes/hugo-story
 	url = https://github.com/caressofsteel/hugo-story.git
