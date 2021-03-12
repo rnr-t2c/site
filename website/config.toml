@@ -4,7 +4,7 @@
 baseurl = "http://rnr-t2c.github.io"
 title = "Hugo Story"
 theme = "hugo-story"
-publishdir = "<github username>.github.io"
+publishdir = "rnr-t2c.github.io"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
