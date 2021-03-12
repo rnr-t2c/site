@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 baseurl = "http://rnr-t2c.github.io"
-title = "Hugo Story"
+title = "Talk2Car-RegSeg Dataset"
 theme = "hugo-story"
 publishdir = "rnr-t2c.github.io"
 
