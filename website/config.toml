@@ -1,10 +1,10 @@
 ## -----------------------------------------------
 ## Basic Configuration
 ## -----------------------------------------------
-
+baseurl = "http://rnr-t2c.github.io"
 title = "Hugo Story"
 theme = "hugo-story"
-
+publishdir = "<github username>.github.io"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
