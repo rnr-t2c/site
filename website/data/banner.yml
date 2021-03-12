@@ -1,12 +1,12 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Talk2Car RegSeg Dataset"
+title : "Talk2Car-RegSeg dataset"
 subtitle: |
-  The Talk2Car RegSeg Dataset is built on top the <a target="_blank" href="https://talk2car.github.io/">Tak2Car dataset</a>.
+  A novel dataset for Referring Navigable Regions(RNR).
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  The Talk2Car-RegSeg Dataset is built on top of the <a target="_blank" href="https://talk2car.github.io/">Talk2Car dataset</a>, where we augment the existing Talk2car dataset with segmentation masks for  navigable regions corresponding to the driving instructions like <i>"Park behind the blue car"</i>. This dataset is the first of its kind specifically curated for the task of RNR and is best suited to autonomous driving scenarios. 
 button:
-  label : "Get Started"
-  link : "#first"
-image : "images/banner.jpg"
+  label : "Download Dataset"
+  link : "https://talk2car.github.io/"
+image : "images/first.png"
 
