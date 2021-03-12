@@ -19,8 +19,8 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
-  logo = "images/banner.jpg"
+  description = "Talk2Car-RegSeg dataset"
+  logo = "images/first.png"
   favicon = true
 
 [Params.social]
