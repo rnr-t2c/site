@@ -8,5 +8,5 @@ content : |
 button:
   label : "Download Dataset"
   link : "https://talk2car.github.io/"
-image : "images/first.png"
+image : "images/banner1.png"
 

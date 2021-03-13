@@ -13,19 +13,14 @@ pictures:
     thumb: "images/img_ann_train_14.jpg"
     button: "View Full Image"
 
-  - title: "Change lanes to stay away from the man in the wheelchair"
-    image: "images/img_ann_train_166.jpg"
-    thumb: "images/img_ann_train_166.jpg"
-    button: "View Full Image"
-
   - title: "Pull up alongside the truck in front of us"
     image: "images/img_ann_train_16.jpg"
     thumb: "images/img_ann_train_16.jpg"
     button: "View Full Image"
 
-  - title: "Shift to the left lane when you can so we do not get too close to that wheelchair"
-    image: "images/img_ann_train_178.jpg"
-    thumb: "images/img_ann_train_178.jpg"
+  - title: "Turn left before the white bag on the sidewalk"
+    image: "images/img_ann_train_534.jpg"
+    thumb: "images/img_ann_train_534.jpg"
     button: "View Full Image"
 
   - title: "Park in front of this white car"
@@ -58,9 +53,9 @@ pictures:
     thumb: "images/img_ann_train_526.jpg"
     button: "View Full Image"
 
-  - title: "Turn left before the white bag on the sidewalk"
-    image: "images/img_ann_train_534.jpg"
-    thumb: "images/img_ann_train_534.jpg"
+  - title: "Shift to the left lane when you can so we do not get too close to that wheelchair"
+    image: "images/img_ann_train_178.jpg"
+    thumb: "images/img_ann_train_178.jpg"
     button: "View Full Image"
 
   - title: "Avoid construction vehicle"
@@ -68,7 +63,7 @@ pictures:
     thumb: "images/img_ann_train_622.jpg"
     button: "View Full Image"
 
-  - title: "Title"
+  - title: "Turn right"
     image: "images/img_ann_train_63.jpg"
     thumb: "images/img_ann_train_63.jpg"
     button: "View Full Image"
@@ -91,6 +86,11 @@ pictures:
   - title: "Let this blue truck pass, then turn left"
     image: "images/img_ann_train_757.jpg"
     thumb: "images/img_ann_train_757.jpg"
+    button: "View Full Image"
+
+  - title: "Change lanes to stay away from the man in the wheelchair"
+    image: "images/img_ann_train_166.jpg"
+    thumb: "images/img_ann_train_166.jpg"
     button: "View Full Image"
 
   - title: "Turn left after that girl crossed the street"
