@@ -20,7 +20,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params]
   description = "Talk2Car-RegSeg dataset"
-  logo = "images/first.png"
+  logo = "images/banner1.png"
   favicon = true
 
 [Params.social]
