@@ -4,7 +4,7 @@ title : "Publication"
 content: |
   We have benchmarked the dataset using a novel transformer based model and a set of baseline approaches. We have also done ablations and analysis studies on this dataset (e.g. action type of commands, the length of commands) to assess its applicability in realistic scenarios. More detailed results can be viewed in our paper.
 button: 
-  label: "Link to publication"
+  label: "Link to publication (coming soon)"
   link: "#"
 image: "images/sp2.png"
 

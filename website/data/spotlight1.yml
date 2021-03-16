@@ -5,5 +5,7 @@ title : "About the dataset"
 content: |
   The original <a target="_blank" href="https://talk2car.github.io/">Talk2Car dataset</a> had textual command with a specific action, referring to an object in the image, and the object of interest was referred to using a bounding box. However, in autonomous driving, referring directly to objects is not amenable for downstream tasks like planning. Hence, we augmented the original dataset with segmentation masks corresponding to navigable regions. 
   The newly created Talk2Car-RegSeg dataset has 8349 training and 1163 validation image-command pairs, similar to those used in the original dataset. We observed that the commands in Talk2Car's validation set are very complex as they are verbose. To evaluate the performance in a controlled setting, we also curated a novel test split (Test-RegSeg). Test-RegSeg contains 500 randomly selected images from the validation set with newly created commands. The commands in the Test-RegSeg split are simplified and straightforward.
-
+button: 
+  label: "Link to code (coming soon)"
+  link: "#"
 image: "images/spotlight.png"

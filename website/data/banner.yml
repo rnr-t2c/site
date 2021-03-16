@@ -6,7 +6,7 @@ subtitle: |
 content : |
   The Talk2Car-RegSeg Dataset is built on top of the <a target="_blank" href="https://talk2car.github.io/">Talk2Car dataset</a>, where we augment the existing Talk2car dataset with segmentation masks for  navigable regions corresponding to the driving instructions like <i>"Park behind the blue car"</i>. This dataset is the first of its kind specifically curated for the task of RNR and is best suited to autonomous driving scenarios. 
 button:
-  label : "Download Dataset"
+  label : "Dataset (coming soon)"
   link : "https://talk2car.github.io/"
 image : "images/banner1.png"
 
